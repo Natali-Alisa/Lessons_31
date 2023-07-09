@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+html, body {
+    min-height: 100vh;
+    width: 1200px;
+    background: linear-gradient(#e9f0ef, #2fc7e2);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 auto;
+}
+
+.title {
+    font-size: 59px;
+    color: rgb(39, 133, 170);
+}
